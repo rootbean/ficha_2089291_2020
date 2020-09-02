@@ -1,7 +1,7 @@
 <?php
 
 /*
-Desarrolle un algoritmo que permita leer un valor entero positivo N y determinar si es primo o no.
+Explicación funciones PHP
 */
 
 function saludar ($mensaje) {
